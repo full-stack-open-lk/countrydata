@@ -10,6 +10,6 @@ This is a simple React application that displays a list of countries and their d
 - View details of a country
 - View the weather report for the capital of a country
 
-```
 [Live Demo](https://countrydata-app.netlify.app/)
-```
+
+![Screen Shot](/doc/screenshot.png)
